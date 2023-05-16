@@ -21,8 +21,5 @@ class DeviceAdmin(admin.ModelAdmin):
     #list_filter = ('company',)
 
 
-"""@admin.register(DeviceLog)
-class DeviceLogAdmin(admin.ModelAdmin):
-    list_display = ('device', 'assigned_to', 'checked_out_at', 'checked_in_at', 'condition')
-    list_filter = ('device__company', 'device')"""
+
 
