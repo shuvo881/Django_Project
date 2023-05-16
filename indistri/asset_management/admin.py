@@ -21,5 +21,5 @@ class DeviceAdmin(admin.ModelAdmin):
     #list_filter = ('company',)
 
 
-
+#dskmasml
 
